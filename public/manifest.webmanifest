@@ -1,0 +1,19 @@
+{
+  "name": "Khmer Comic AI",
+  "short_name": "Comic AI",
+  "description": "Translate Chinese Manhua, Korean Manhwa, Japanese Manga, and English comics into Khmer with AI.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#08090d",
+  "theme_color": "#08090d",
+  "categories": ["productivity", "books", "graphics"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

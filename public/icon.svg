@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="#08090d"/>
+  <rect x="120" y="96" width="272" height="320" rx="16" fill="none" stroke="#3b82f6" stroke-width="16"/>
+  <path d="M160 176 L352 176" stroke="#3b82f6" stroke-width="12" stroke-linecap="round"/>
+  <path d="M160 240 L280 240" stroke="#3b82f6" stroke-width="12" stroke-linecap="round"/>
+  <path d="M160 304 L320 304" stroke="#3b82f6" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="376" cy="376" r="64" fill="#f97316"/>
+  <path d="M356 360 L356 392 M372 360 L372 392 M388 360 L388 392" stroke="#08090d" stroke-width="8" stroke-linecap="round"/>
+  <text x="256" y="460" font-family="sans-serif" font-size="28" font-weight="700" fill="#3b82f6" text-anchor="middle">មុខ</text>
+</svg>
